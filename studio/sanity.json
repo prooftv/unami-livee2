@@ -1,12 +1,12 @@
 {
   "root": true,
   "project": {
-    "name": "nextjs-conference",
+    "name": "unami-live",
     "basePath": "/studio"
   },
   "api": {
-    "projectId": "jmhf2rn8",
-    "dataset": "nextjs-conference"
+    "projectId": "sw9mikou",
+    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
