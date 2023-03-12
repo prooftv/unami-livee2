@@ -2,7 +2,7 @@
   "root": true,
   "project": {
     "name": "unami-live",
-    "basePath": "/studio"
+    "basePath": "https://unami-live-last.vercel.app/studio"
   },
   "api": {
     "projectId": "sw9mikou",
